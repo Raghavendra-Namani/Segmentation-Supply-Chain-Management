@@ -188,8 +188,4 @@ _For more information: [Inventory Management for Retail — Stochastic Demand](h
     <img align="center" src="images/network.PNG" width=50%>
   </p>
   
-> -> Enjoy!
-# About me 🤓
-Senior Supply Chain Engineer with an international experience working on Logistics and Transportation operations. \
-Have a look at my portfolio: [Data Science for Supply Chain Portfolio](https://samirsaci.com) \
-Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈 
+

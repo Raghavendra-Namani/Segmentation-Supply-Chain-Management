@@ -15,10 +15,7 @@ Your want to understand the sales volumes distribution (fast/slow movers) and de
 I have designed this **Streamlit App** to provide a tool to **Supply Chain Engineers** for Product Segmentation, with a focus on retail products, of their portofolio considering the complexity of the demand and the volumes contribution of each item.
 
 ### Understand the theory behind 📜
-In this [Article](https://www.samirsaci.com/product-segmentation-for-retail-with-python/), you can find details about the theory used to build this tool. 
-
-# Access the application 🖥️ 
-> Access it here: [Product Segmentation for Retail](https://share.streamlit.io/samirsaci/segmentation/main/segmentation.py)
+In this Article, you can find details about the theory used to build this tool. 
 
 ## **Step 0: Why should you use it?**
 This Streamlit Web Application has been designed for Supply Chain Engineers to support them in their Inventory Management. It will help you to automate product segmentation using statistics.
